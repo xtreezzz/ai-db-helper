@@ -1,8 +1,8 @@
-# SQL Error Assistant
+# AI Database Helper
 
 ## Overview
 
-**SQL Error Assistant** is a Python-based tool designed to help junior developers understand and fix SQL errors in database queries using the Chinook database. It leverages OpenAI's GPT-4 model to generate detailed explanations, corrected queries, and relevant DDL statements based on error logs.
+**AI Database Helper** is a Python-based tool designed to help junior developers understand and fix SQL errors in database queries using the Chinook database. It leverages OpenAI's GPT-4 model to generate detailed explanations, corrected queries, and relevant DDL statements based on error logs.
 
 ## Features
 
@@ -24,8 +24,8 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/xtreezzz/sql-error-assistant.git
-   cd sql-error-assistant
+   git clone https://github.com/xtreezzz/ai-db-helper.git
+   cd ai-db-helper
    ```
 
 2. **Create a Virtual Environment**
