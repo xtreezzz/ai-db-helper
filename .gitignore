@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Configuration
+src/config.py
+
+# JSON Output
+parsed_logs_success.json

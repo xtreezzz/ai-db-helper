@@ -1,0 +1,5 @@
+# config.py
+
+OPENAI_API_KEY = ''
+LANGUAGE = 'English'  # Default language for explanations
+DATABASE = 'Greenplum'  # Options: 'Greenplum', 'ClickHouse', 'Trino'
